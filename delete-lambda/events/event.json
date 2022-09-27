@@ -1,0 +1,6 @@
+{
+  "httpMethod": "DELETE",
+  "payload": {
+    "id": "11"
+  }
+}

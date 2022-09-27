@@ -1,0 +1,9 @@
+{
+  "httpMethod": "POST",
+  "payload": {
+    "id": "11",
+    "nome": "Robson Elias",
+    "cargo": "Logistica",
+    "idade": 30
+  }
+}
